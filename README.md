@@ -2,7 +2,7 @@
   <img src="./assets/gsap-banner.jpg" alt="GSAP Banner" width="600"/>
 </p>
 
-<h1 align="center">✨ GSAP Learning Journey</h1>
+<h1 align="center">GSAP Learning Journey</h1>
 
 <p align="center">
   Welcome to my GSAP animation learning repository! 🚀  
